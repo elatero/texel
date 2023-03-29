@@ -1,6 +1,6 @@
 {
   "name": "sample-web-service",
-  "title": "Пример вес-сервиса",
+  "title": "Пример веб-сервиса",
   "description": "Описание веб-сервиса",
   "parameters": {
     "input": [

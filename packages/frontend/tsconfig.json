@@ -17,5 +17,6 @@
     "jsx": "react-jsx"
   },
   "include": ["src"],
+  "typeRoots": ["./src/globalTypes.d.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

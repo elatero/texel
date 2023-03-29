@@ -31,7 +31,7 @@
 	"rules": {
 		"prettier/prettier": [
 			"error", {
-				"semi": false,
+				"semi": true,
 				"endOfLine": "auto",
 				"trailingComma": "all",
 				"printWidth": 80
@@ -39,6 +39,9 @@
 		],
 		"react/react-in-jsx-scope": "off",
 		"react/button-has-type": "off",
-		"@typescript-eslint/no-shadow": "off"
+		"@typescript-eslint/no-shadow": "off",
+		"@typescript-eslint/no-floating-promises": "off",
+		"react/no-array-index-key": "off",
+		"@typescript-eslint/no-misused-promises": "off"
 	}
 }
